@@ -1,0 +1,13 @@
+{
+    "wait": "_Sabar Anjing Sedang Di Proses_",
+    "error": {
+        "Iv": "Link BOKEP yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan, sabat, orang sabar pantatnya lebar"
+    },
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin, minimal jadiin gw admin lah",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot, yahaha kasihan bukan owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium, mangkanya bayar ke owner biar bisa jadi premium, aowkakakka"
+}
